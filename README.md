@@ -1,7 +1,7 @@
 [<img src="https://cdn.rawgit.com/lutsen/lagan/master/lagan-logo.svg" width="100" alt="Lagan">](https://github.com/lutsen/lagan)
 
-Lagan Slug Property Controller
-==============================
+Lagan Hashid Property Controller
+================================
 
 Controller for the Lagan Hashid property.  
 Generate YouTube-like ids based on the conten object id's. Use it when you don't want to expose your database ids to the user. A Hashid is only set on creation of the content object and cannot be edited. Uses the [Hashids PHP library](http://hashids.org/php/). Optionally a salt, padding and alphabet for the Hasid can be set in the property array.   
